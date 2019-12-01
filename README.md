@@ -1,8 +1,7 @@
 # Raj_bell_pey_challenge
-
-Name: Raj Barad
-Email: rajbarad99@gmail.com
-University: Ryerson University
+###### Name: Raj Barad
+###### Email: rajbarad99@gmail.com
+###### University: Ryerson University
 
 I have included two folders, one labeled "myProgram" and "mySimulation".
 myProgram - This folder includes my program which is implemented as a java class. The class is called myProgam, which contains 
